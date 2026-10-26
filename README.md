@@ -36,7 +36,7 @@ For research conversations and professional inquiries — always open to researc
 
 ## Beyond work
 
-🎵 Music · 🏋️ Fitness · ♌ **Leo**
+🎵 Music · 🏋️ Fitness
 
 ---
 

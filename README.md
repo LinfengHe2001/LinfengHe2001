@@ -1,24 +1,43 @@
-### Hi there 👋
+# Linfeng He.
 
-I’m He Linfeng, from Chengdu, Sichuan.
-- 🎓 I graduated with a bachelor's degree from Chongqing University, and am currently a graduate student in ECE at Duke University.
-- 🔭 I previously interned at Meituan and am currently interning at Microsoft.
-- 🌱 My hobbies are quite varied, including music, fitness. I am eager to make friends with everyone!
-- 😄 MBTI personality type is INTJ, and zodiac sign is Leo.
-- 🏆 In the future, I hope to develop my skills in software development, AI and Backend Development for LLMs. 
-- 👍 I am looking for suitable internship opportunities.
+**Artificial intelligence researcher** — exploring learning, reasoning, and intelligent agents.
 
-<!--
-**LinfengHe2001/LinfengHe2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a research engineer in the Department of Multimodal Perception and Dialogue at the **Beijing Institute for General Artificial Intelligence (BIGAI)**.
 
-Here are some ideas to get you started:
+[Website ↗](https://linfenghe2001.github.io/) · [Google Scholar ↗](https://scholar.google.com/citations?hl=en\&user=QHJSHWMAAAAJ) · [LinkedIn ↗](https://www.linkedin.com/in/linfenghe/) · <lh426@duke.edu>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `01` · Research interests
+
+My interests span **large language models**, **reinforcement learning**, **multi-agent systems**, and **world models**.
+
+---
+
+## `02` · Experience & education
+
+| Period         | Institution                                                       | Details                                                       |
+| :------------- | :---------------------------------------------------------------- | :------------------------------------------------------------ |
+| 2026 — Present | **Beijing Institute for General Artificial Intelligence (BIGAI)** | Researcher · Department of Multimodal Perception and Dialogue |
+| 2023 — 2026    | **Duke University** · Pratt School of Engineering                 | Master's studies · Computer Science                           |
+| 2019 — 2023    | **Chongqing University** · College of Bioengineering              | Undergraduate studies · Intelligent Medical Engineering       |
+
+**Industry experience** — previously interned at **Microsoft, Meituan and Shanghai AI Laboratory**.
+
+---
+
+## `03` · Contact
+
+For research conversations and professional inquiries — always open to research collaborations.
+
+`lh426@duke.edu` · `helinfeng@bigai.ai` · `helinfengcqu@hotmail.com`
+
+---
+
+## Beyond work
+
+🎵 Music · 🏋️ Fitness · ♌ **Leo**
+
+---
+
+*Learning. Reasoning. Exploring.*
